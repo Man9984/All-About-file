@@ -1,0 +1,23 @@
+
+untrcking file 
+staged file
+unmodified file 
+modified file 
+
+This is the file of git and github.
+
+classification image
+Transfer learning model 
+continious integration or continious development 
+AWS s3 bucket 
+AWS Ec2 instance(Docker is a container and kubernets is scalable of the Program )
+
+python Frameworks
+Felcon 
+Flask 
+Django
+
+
+
+
+
