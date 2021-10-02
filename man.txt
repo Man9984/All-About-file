@@ -1,0 +1,8 @@
+Here is the all command for the github
+ls
+ls -a
+ls -lart
+
+git rm -cached file_name
+rm -rf file_name
+git rm -a -m file_name
